@@ -8,7 +8,15 @@ Install neovim with:
 - `sudo apt install neovim`
 
 Clone repo and copy to .config directory with:
+- `mkdir ~/.config/nvim`
 - `git clone https://github.com/Adam-Goss/nvim-config.git && cp -r nvim-config/* ~/.config/nvim/.`
+
+
+Install Neovim python support with:
+- `pip install pynvim`
+
+Install Neovim node support with:
+- `npm i -g neovim`
 
 Run `nvim` and wait for the plugins to be installed
 
