@@ -24,3 +24,6 @@ NOTE (You will notice treesitter pulling in a bunch of parsers the next time you
 
 Check health in neovim with:
 - `:checkhealth`
+
+Sync plugins with:
+- `:PackerSync`
